@@ -1,1 +1,2 @@
 # Hangman-game-using-Python
+This Python Hangman game allows a player to guess a randomly chosen word letter by letter. The player has six attempts to guess the correct letters, with a hangman figure illustrating incorrect guesses. The game ends either when the player correctly guesses the word or exhausts all attempts. The code uses basic functions for word selection, display, and hangman graphics, providing a simple and interactive gaming experience.
